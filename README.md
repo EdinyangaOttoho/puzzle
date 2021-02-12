@@ -11,4 +11,4 @@ To add more images to the preexisting (default) images of the game, simply visit
 Start a local server using Laragon, WAMP or any other means and visit the /puzzle/ directory in your browser. There, you can view images and begin playing the puzzle game right there.
 
 ## Contribution
-The project is open to contributions from anyone. Just hit me right up... 😉😉
+The project is open to contributions from anyone. Just hit me right up via +2348117093601... 😉😉
